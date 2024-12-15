@@ -4,7 +4,7 @@ import pandas as pd
 import tkinter as tk
 from tkinter import ttk
 
-file_path = r"C:\Users\Geanis\Desktop\TemaPython\data.csv"
+file_path = r"C:\Users\Geanis\Desktop\IordacheGeani\Problema2\data.csv"
 df = pd.read_csv(file_path)
 
 current_canvas = None
